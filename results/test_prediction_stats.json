@@ -1,0 +1,17 @@
+{
+  "weights": "weights/best.pt",
+  "n_test": 100,
+  "n_predictions": 100,
+  "n_misses": 0,
+  "missed_image_ids": [],
+  "score_min": 0.0018822711426764727,
+  "score_mean": 0.651452380802948,
+  "score_median": 0.7183370888233185,
+  "score_p10": 0.34297538399696353,
+  "score_max": 0.883936882019043,
+  "frac_score_ge_0.25": 0.92,
+  "frac_score_ge_0.50": 0.83,
+  "box_maxside_mean_px": 410.1350569522381,
+  "box_maxside_median_px": 337.43408203125,
+  "note": "Test GT is hidden; IoU/det-rate/centroid cannot be computed locally. See val_metrics.json for labeled metrics."
+}

@@ -1,0 +1,6302 @@
+[
+ {
+  "frame_id": 1,
+  "file_name": "frame_0001.jpg",
+  "bbox": [
+   391.63,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   915.82,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "detect",
+  "los_xy": [
+   0.11222,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.822
+ },
+ {
+  "frame_id": 2,
+  "file_name": "frame_0002.jpg",
+  "bbox": [
+   391.12,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   915.31,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11193,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.807
+ },
+ {
+  "frame_id": 3,
+  "file_name": "frame_0003.jpg",
+  "bbox": [
+   390.86,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   915.04,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11178,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.799
+ },
+ {
+  "frame_id": 4,
+  "file_name": "frame_0004.jpg",
+  "bbox": [
+   390.28,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   914.47,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11145,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.781
+ },
+ {
+  "frame_id": 5,
+  "file_name": "frame_0005.jpg",
+  "bbox": [
+   389.72,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   913.9,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11112,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.764
+ },
+ {
+  "frame_id": 6,
+  "file_name": "frame_0006.jpg",
+  "bbox": [
+   389.31,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   913.49,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11089,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.752
+ },
+ {
+  "frame_id": 7,
+  "file_name": "frame_0007.jpg",
+  "bbox": [
+   388.86,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   913.04,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11063,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.738
+ },
+ {
+  "frame_id": 8,
+  "file_name": "frame_0008.jpg",
+  "bbox": [
+   388.22,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   912.4,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11026,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.719
+ },
+ {
+  "frame_id": 9,
+  "file_name": "frame_0009.jpg",
+  "bbox": [
+   387.71,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   911.9,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10998,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.704
+ },
+ {
+  "frame_id": 10,
+  "file_name": "frame_0010.jpg",
+  "bbox": [
+   387.23,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   911.42,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.1097,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.689
+ },
+ {
+  "frame_id": 11,
+  "file_name": "frame_0011.jpg",
+  "bbox": [
+   386.75,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   910.93,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10942,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.674
+ },
+ {
+  "frame_id": 12,
+  "file_name": "frame_0012.jpg",
+  "bbox": [
+   386.3,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   910.49,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10917,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.661
+ },
+ {
+  "frame_id": 13,
+  "file_name": "frame_0013.jpg",
+  "bbox": [
+   385.93,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   910.12,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10896,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.65
+ },
+ {
+  "frame_id": 14,
+  "file_name": "frame_0014.jpg",
+  "bbox": [
+   385.5,
+   0.0,
+   1048.37,
+   935.13
+  ],
+  "centroid": [
+   909.68,
+   467.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.1087,
+   -0.04147
+  ],
+  "angle_from_boresight_deg": 6.636
+ },
+ {
+  "frame_id": 15,
+  "file_name": "frame_0015.jpg",
+  "bbox": [
+   395.66,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   916.68,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   0.11272,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.918
+ },
+ {
+  "frame_id": 16,
+  "file_name": "frame_0016.jpg",
+  "bbox": [
+   395.24,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   916.25,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11247,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.905
+ },
+ {
+  "frame_id": 17,
+  "file_name": "frame_0017.jpg",
+  "bbox": [
+   394.86,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   915.87,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11225,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.893
+ },
+ {
+  "frame_id": 18,
+  "file_name": "frame_0018.jpg",
+  "bbox": [
+   394.41,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   915.42,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11199,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.88
+ },
+ {
+  "frame_id": 19,
+  "file_name": "frame_0019.jpg",
+  "bbox": [
+   394.02,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   915.03,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11177,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.868
+ },
+ {
+  "frame_id": 20,
+  "file_name": "frame_0020.jpg",
+  "bbox": [
+   393.67,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   914.69,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11158,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.858
+ },
+ {
+  "frame_id": 21,
+  "file_name": "frame_0021.jpg",
+  "bbox": [
+   393.26,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   914.27,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11133,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.845
+ },
+ {
+  "frame_id": 22,
+  "file_name": "frame_0022.jpg",
+  "bbox": [
+   392.85,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   913.87,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11111,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.833
+ },
+ {
+  "frame_id": 23,
+  "file_name": "frame_0023.jpg",
+  "bbox": [
+   392.58,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   913.59,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11094,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.825
+ },
+ {
+  "frame_id": 24,
+  "file_name": "frame_0024.jpg",
+  "bbox": [
+   392.19,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   913.2,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11072,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.813
+ },
+ {
+  "frame_id": 25,
+  "file_name": "frame_0025.jpg",
+  "bbox": [
+   391.77,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   912.78,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11048,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.801
+ },
+ {
+  "frame_id": 26,
+  "file_name": "frame_0026.jpg",
+  "bbox": [
+   391.47,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   912.48,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11031,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.792
+ },
+ {
+  "frame_id": 27,
+  "file_name": "frame_0027.jpg",
+  "bbox": [
+   391.04,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   912.05,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.11006,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.779
+ },
+ {
+  "frame_id": 28,
+  "file_name": "frame_0028.jpg",
+  "bbox": [
+   390.65,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   911.66,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10984,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.767
+ },
+ {
+  "frame_id": 29,
+  "file_name": "frame_0029.jpg",
+  "bbox": [
+   390.29,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   911.3,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10963,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.756
+ },
+ {
+  "frame_id": 30,
+  "file_name": "frame_0030.jpg",
+  "bbox": [
+   389.98,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   910.99,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10945,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.747
+ },
+ {
+  "frame_id": 31,
+  "file_name": "frame_0031.jpg",
+  "bbox": [
+   389.62,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   910.63,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10925,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.736
+ },
+ {
+  "frame_id": 32,
+  "file_name": "frame_0032.jpg",
+  "bbox": [
+   389.24,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   910.25,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10903,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.725
+ },
+ {
+  "frame_id": 33,
+  "file_name": "frame_0033.jpg",
+  "bbox": [
+   388.95,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   909.96,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10886,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.716
+ },
+ {
+  "frame_id": 34,
+  "file_name": "frame_0034.jpg",
+  "bbox": [
+   388.57,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   909.59,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10865,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.705
+ },
+ {
+  "frame_id": 35,
+  "file_name": "frame_0035.jpg",
+  "bbox": [
+   388.19,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   909.2,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10843,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.693
+ },
+ {
+  "frame_id": 36,
+  "file_name": "frame_0036.jpg",
+  "bbox": [
+   388.01,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   909.02,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10833,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.688
+ },
+ {
+  "frame_id": 37,
+  "file_name": "frame_0037.jpg",
+  "bbox": [
+   387.6,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   908.61,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10809,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.676
+ },
+ {
+  "frame_id": 38,
+  "file_name": "frame_0038.jpg",
+  "bbox": [
+   387.23,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   908.24,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10788,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.665
+ },
+ {
+  "frame_id": 39,
+  "file_name": "frame_0039.jpg",
+  "bbox": [
+   386.96,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   907.97,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10772,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.657
+ },
+ {
+  "frame_id": 40,
+  "file_name": "frame_0040.jpg",
+  "bbox": [
+   386.53,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   907.54,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10748,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.644
+ },
+ {
+  "frame_id": 41,
+  "file_name": "frame_0041.jpg",
+  "bbox": [
+   386.21,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   907.22,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10729,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.634
+ },
+ {
+  "frame_id": 42,
+  "file_name": "frame_0042.jpg",
+  "bbox": [
+   385.95,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   906.96,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10715,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.626
+ },
+ {
+  "frame_id": 43,
+  "file_name": "frame_0043.jpg",
+  "bbox": [
+   385.58,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   906.59,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10693,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.615
+ },
+ {
+  "frame_id": 44,
+  "file_name": "frame_0044.jpg",
+  "bbox": [
+   385.21,
+   0.0,
+   1042.02,
+   923.16
+  ],
+  "centroid": [
+   906.22,
+   461.58
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.10672,
+   -0.0449
+  ],
+  "angle_from_boresight_deg": 6.604
+ },
+ {
+  "frame_id": 45,
+  "file_name": "frame_0045.jpg",
+  "bbox": [
+   410.25,
+   196.29,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   782.99,
+   553.95
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   0.0361,
+   0.00799
+  ],
+  "angle_from_boresight_deg": 2.117
+ },
+ {
+  "frame_id": 46,
+  "file_name": "frame_0046.jpg",
+  "bbox": [
+   409.9,
+   196.07,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   782.64,
+   553.73
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.0359,
+   0.00786
+  ],
+  "angle_from_boresight_deg": 2.105
+ },
+ {
+  "frame_id": 47,
+  "file_name": "frame_0047.jpg",
+  "bbox": [
+   409.6,
+   195.83,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   782.34,
+   553.48
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03573,
+   0.00772
+  ],
+  "angle_from_boresight_deg": 2.093
+ },
+ {
+  "frame_id": 48,
+  "file_name": "frame_0048.jpg",
+  "bbox": [
+   409.29,
+   195.5,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   782.03,
+   553.16
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03555,
+   0.00753
+  ],
+  "angle_from_boresight_deg": 2.081
+ },
+ {
+  "frame_id": 49,
+  "file_name": "frame_0049.jpg",
+  "bbox": [
+   408.96,
+   195.16,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   781.7,
+   552.81
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03536,
+   0.00733
+  ],
+  "angle_from_boresight_deg": 2.068
+ },
+ {
+  "frame_id": 50,
+  "file_name": "frame_0050.jpg",
+  "bbox": [
+   408.63,
+   194.87,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   781.37,
+   552.53
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03517,
+   0.00717
+  ],
+  "angle_from_boresight_deg": 2.056
+ },
+ {
+  "frame_id": 51,
+  "file_name": "frame_0051.jpg",
+  "bbox": [
+   408.24,
+   194.46,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   780.98,
+   552.12
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03495,
+   0.00694
+  ],
+  "angle_from_boresight_deg": 2.041
+ },
+ {
+  "frame_id": 52,
+  "file_name": "frame_0052.jpg",
+  "bbox": [
+   407.87,
+   194.12,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   780.61,
+   551.77
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03474,
+   0.00674
+  ],
+  "angle_from_boresight_deg": 2.026
+ },
+ {
+  "frame_id": 53,
+  "file_name": "frame_0053.jpg",
+  "bbox": [
+   407.48,
+   193.84,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   780.22,
+   551.5
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03451,
+   0.00658
+  ],
+  "angle_from_boresight_deg": 2.012
+ },
+ {
+  "frame_id": 54,
+  "file_name": "frame_0054.jpg",
+  "bbox": [
+   407.13,
+   193.55,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   779.87,
+   551.21
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03431,
+   0.00642
+  ],
+  "angle_from_boresight_deg": 1.999
+ },
+ {
+  "frame_id": 55,
+  "file_name": "frame_0055.jpg",
+  "bbox": [
+   406.8,
+   193.12,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   779.54,
+   550.77
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03412,
+   0.00617
+  ],
+  "angle_from_boresight_deg": 1.986
+ },
+ {
+  "frame_id": 56,
+  "file_name": "frame_0056.jpg",
+  "bbox": [
+   406.37,
+   192.82,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   779.12,
+   550.48
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03388,
+   0.006
+  ],
+  "angle_from_boresight_deg": 1.971
+ },
+ {
+  "frame_id": 57,
+  "file_name": "frame_0057.jpg",
+  "bbox": [
+   406.1,
+   192.58,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   778.84,
+   550.24
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03372,
+   0.00586
+  ],
+  "angle_from_boresight_deg": 1.96
+ },
+ {
+  "frame_id": 58,
+  "file_name": "frame_0058.jpg",
+  "bbox": [
+   405.75,
+   192.2,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   778.5,
+   549.85
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03353,
+   0.00564
+  ],
+  "angle_from_boresight_deg": 1.947
+ },
+ {
+  "frame_id": 59,
+  "file_name": "frame_0059.jpg",
+  "bbox": [
+   405.44,
+   191.85,
+   745.48,
+   715.31
+  ],
+  "centroid": [
+   778.18,
+   549.51
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.03334,
+   0.00544
+  ],
+  "angle_from_boresight_deg": 1.935
+ },
+ {
+  "frame_id": 60,
+  "file_name": "frame_0060.jpg",
+  "bbox": [
+   395.88,
+   260.25,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   733.27,
+   585.56
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   0.0076,
+   0.02609
+  ],
+  "angle_from_boresight_deg": 1.556
+ },
+ {
+  "frame_id": 61,
+  "file_name": "frame_0061.jpg",
+  "bbox": [
+   395.41,
+   259.83,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   732.79,
+   585.13
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00733,
+   0.02584
+  ],
+  "angle_from_boresight_deg": 1.539
+ },
+ {
+  "frame_id": 62,
+  "file_name": "frame_0062.jpg",
+  "bbox": [
+   395.04,
+   259.52,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   732.42,
+   584.83
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00712,
+   0.02567
+  ],
+  "angle_from_boresight_deg": 1.526
+ },
+ {
+  "frame_id": 63,
+  "file_name": "frame_0063.jpg",
+  "bbox": [
+   394.65,
+   259.3,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   732.04,
+   584.6
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.0069,
+   0.02554
+  ],
+  "angle_from_boresight_deg": 1.515
+ },
+ {
+  "frame_id": 64,
+  "file_name": "frame_0064.jpg",
+  "bbox": [
+   394.18,
+   258.87,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   731.57,
+   584.17
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00663,
+   0.02529
+  ],
+  "angle_from_boresight_deg": 1.498
+ },
+ {
+  "frame_id": 65,
+  "file_name": "frame_0065.jpg",
+  "bbox": [
+   393.74,
+   258.47,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   731.13,
+   583.78
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00638,
+   0.02507
+  ],
+  "angle_from_boresight_deg": 1.482
+ },
+ {
+  "frame_id": 66,
+  "file_name": "frame_0066.jpg",
+  "bbox": [
+   393.37,
+   258.26,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   730.76,
+   583.56
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00617,
+   0.02494
+  ],
+  "angle_from_boresight_deg": 1.472
+ },
+ {
+  "frame_id": 67,
+  "file_name": "frame_0067.jpg",
+  "bbox": [
+   392.82,
+   257.86,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   730.2,
+   583.16
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00585,
+   0.02471
+  ],
+  "angle_from_boresight_deg": 1.455
+ },
+ {
+  "frame_id": 68,
+  "file_name": "frame_0068.jpg",
+  "bbox": [
+   392.36,
+   257.53,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   729.75,
+   582.83
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00559,
+   0.02452
+  ],
+  "angle_from_boresight_deg": 1.441
+ },
+ {
+  "frame_id": 69,
+  "file_name": "frame_0069.jpg",
+  "bbox": [
+   391.88,
+   257.28,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   729.27,
+   582.59
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00531,
+   0.02438
+  ],
+  "angle_from_boresight_deg": 1.43
+ },
+ {
+  "frame_id": 70,
+  "file_name": "frame_0070.jpg",
+  "bbox": [
+   391.42,
+   256.99,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   728.8,
+   582.29
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00504,
+   0.02421
+  ],
+  "angle_from_boresight_deg": 1.417
+ },
+ {
+  "frame_id": 71,
+  "file_name": "frame_0071.jpg",
+  "bbox": [
+   390.74,
+   256.5,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   728.13,
+   581.8
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00466,
+   0.02393
+  ],
+  "angle_from_boresight_deg": 1.397
+ },
+ {
+  "frame_id": 72,
+  "file_name": "frame_0072.jpg",
+  "bbox": [
+   390.4,
+   256.24,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   727.78,
+   581.54
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00446,
+   0.02378
+  ],
+  "angle_from_boresight_deg": 1.386
+ },
+ {
+  "frame_id": 73,
+  "file_name": "frame_0073.jpg",
+  "bbox": [
+   389.97,
+   255.99,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   727.35,
+   581.29
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00421,
+   0.02364
+  ],
+  "angle_from_boresight_deg": 1.376
+ },
+ {
+  "frame_id": 74,
+  "file_name": "frame_0074.jpg",
+  "bbox": [
+   389.46,
+   255.5,
+   674.77,
+   650.61
+  ],
+  "centroid": [
+   726.85,
+   580.81
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00393,
+   0.02337
+  ],
+  "angle_from_boresight_deg": 1.357
+ },
+ {
+  "frame_id": 75,
+  "file_name": "frame_0075.jpg",
+  "bbox": [
+   371.87,
+   218.48,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   717.3,
+   561.35
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.00155,
+   0.01222
+  ],
+  "angle_from_boresight_deg": 0.706
+ },
+ {
+  "frame_id": 76,
+  "file_name": "frame_0076.jpg",
+  "bbox": [
+   371.22,
+   218.22,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   716.65,
+   561.09
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00192,
+   0.01207
+  ],
+  "angle_from_boresight_deg": 0.701
+ },
+ {
+  "frame_id": 77,
+  "file_name": "frame_0077.jpg",
+  "bbox": [
+   370.54,
+   217.78,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   715.97,
+   560.64
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00231,
+   0.01182
+  ],
+  "angle_from_boresight_deg": 0.69
+ },
+ {
+  "frame_id": 78,
+  "file_name": "frame_0078.jpg",
+  "bbox": [
+   370.13,
+   217.51,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   715.56,
+   560.38
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00254,
+   0.01167
+  ],
+  "angle_from_boresight_deg": 0.684
+ },
+ {
+  "frame_id": 79,
+  "file_name": "frame_0079.jpg",
+  "bbox": [
+   369.34,
+   217.19,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   714.77,
+   560.06
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.003,
+   0.01149
+  ],
+  "angle_from_boresight_deg": 0.68
+ },
+ {
+  "frame_id": 80,
+  "file_name": "frame_0080.jpg",
+  "bbox": [
+   368.67,
+   216.9,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   714.1,
+   559.77
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00338,
+   0.01132
+  ],
+  "angle_from_boresight_deg": 0.677
+ },
+ {
+  "frame_id": 81,
+  "file_name": "frame_0081.jpg",
+  "bbox": [
+   368.05,
+   216.5,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   713.48,
+   559.37
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00374,
+   0.01109
+  ],
+  "angle_from_boresight_deg": 0.67
+ },
+ {
+  "frame_id": 82,
+  "file_name": "frame_0082.jpg",
+  "bbox": [
+   367.36,
+   216.23,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   712.79,
+   559.1
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00413,
+   0.01094
+  ],
+  "angle_from_boresight_deg": 0.67
+ },
+ {
+  "frame_id": 83,
+  "file_name": "frame_0083.jpg",
+  "bbox": [
+   366.64,
+   216.02,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   712.07,
+   558.88
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00454,
+   0.01081
+  ],
+  "angle_from_boresight_deg": 0.672
+ },
+ {
+  "frame_id": 84,
+  "file_name": "frame_0084.jpg",
+  "bbox": [
+   366.07,
+   215.62,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   711.5,
+   558.49
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00487,
+   0.01059
+  ],
+  "angle_from_boresight_deg": 0.668
+ },
+ {
+  "frame_id": 85,
+  "file_name": "frame_0085.jpg",
+  "bbox": [
+   365.42,
+   215.3,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   710.85,
+   558.17
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00524,
+   0.0104
+  ],
+  "angle_from_boresight_deg": 0.667
+ },
+ {
+  "frame_id": 86,
+  "file_name": "frame_0086.jpg",
+  "bbox": [
+   364.72,
+   215.06,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   710.15,
+   557.93
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00564,
+   0.01027
+  ],
+  "angle_from_boresight_deg": 0.671
+ },
+ {
+  "frame_id": 87,
+  "file_name": "frame_0087.jpg",
+  "bbox": [
+   364.1,
+   214.67,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   709.53,
+   557.54
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.006,
+   0.01004
+  ],
+  "angle_from_boresight_deg": 0.67
+ },
+ {
+  "frame_id": 88,
+  "file_name": "frame_0088.jpg",
+  "bbox": [
+   363.4,
+   214.37,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   708.83,
+   557.24
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0064,
+   0.00987
+  ],
+  "angle_from_boresight_deg": 0.674
+ },
+ {
+  "frame_id": 89,
+  "file_name": "frame_0089.jpg",
+  "bbox": [
+   362.74,
+   214.18,
+   690.86,
+   685.74
+  ],
+  "centroid": [
+   708.17,
+   557.05
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00678,
+   0.00976
+  ],
+  "angle_from_boresight_deg": 0.681
+ },
+ {
+  "frame_id": 90,
+  "file_name": "frame_0090.jpg",
+  "bbox": [
+   341.78,
+   74.84,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   715.7,
+   493.71
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.00246,
+   -0.0265
+  ],
+  "angle_from_boresight_deg": 1.525
+ },
+ {
+  "frame_id": 91,
+  "file_name": "frame_0091.jpg",
+  "bbox": [
+   341.2,
+   74.5,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   715.12,
+   493.38
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0028,
+   -0.02669
+  ],
+  "angle_from_boresight_deg": 1.537
+ },
+ {
+  "frame_id": 92,
+  "file_name": "frame_0092.jpg",
+  "bbox": [
+   340.52,
+   74.29,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   714.44,
+   493.17
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00319,
+   -0.02681
+  ],
+  "angle_from_boresight_deg": 1.547
+ },
+ {
+  "frame_id": 93,
+  "file_name": "frame_0093.jpg",
+  "bbox": [
+   339.94,
+   74.03,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   713.86,
+   492.91
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00352,
+   -0.02696
+  ],
+  "angle_from_boresight_deg": 1.557
+ },
+ {
+  "frame_id": 94,
+  "file_name": "frame_0094.jpg",
+  "bbox": [
+   339.33,
+   73.7,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   713.25,
+   492.57
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00387,
+   -0.02716
+  ],
+  "angle_from_boresight_deg": 1.571
+ },
+ {
+  "frame_id": 95,
+  "file_name": "frame_0095.jpg",
+  "bbox": [
+   338.61,
+   73.41,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   712.52,
+   492.29
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00429,
+   -0.02732
+  ],
+  "angle_from_boresight_deg": 1.584
+ },
+ {
+  "frame_id": 96,
+  "file_name": "frame_0096.jpg",
+  "bbox": [
+   338.0,
+   73.17,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   711.92,
+   492.05
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00463,
+   -0.02745
+  ],
+  "angle_from_boresight_deg": 1.595
+ },
+ {
+  "frame_id": 97,
+  "file_name": "frame_0097.jpg",
+  "bbox": [
+   337.43,
+   72.85,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   711.35,
+   491.72
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00496,
+   -0.02764
+  ],
+  "angle_from_boresight_deg": 1.609
+ },
+ {
+  "frame_id": 98,
+  "file_name": "frame_0098.jpg",
+  "bbox": [
+   336.79,
+   72.62,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   710.71,
+   491.49
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00532,
+   -0.02777
+  ],
+  "angle_from_boresight_deg": 1.62
+ },
+ {
+  "frame_id": 99,
+  "file_name": "frame_0099.jpg",
+  "bbox": [
+   336.01,
+   72.37,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   709.93,
+   491.25
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00577,
+   -0.02791
+  ],
+  "angle_from_boresight_deg": 1.633
+ },
+ {
+  "frame_id": 100,
+  "file_name": "frame_0100.jpg",
+  "bbox": [
+   335.46,
+   72.14,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   709.38,
+   491.02
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00609,
+   -0.02804
+  ],
+  "angle_from_boresight_deg": 1.644
+ },
+ {
+  "frame_id": 101,
+  "file_name": "frame_0101.jpg",
+  "bbox": [
+   334.8,
+   71.91,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   708.72,
+   490.78
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00646,
+   -0.02818
+  ],
+  "angle_from_boresight_deg": 1.656
+ },
+ {
+  "frame_id": 102,
+  "file_name": "frame_0102.jpg",
+  "bbox": [
+   334.12,
+   71.8,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   708.04,
+   490.67
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00685,
+   -0.02824
+  ],
+  "angle_from_boresight_deg": 1.665
+ },
+ {
+  "frame_id": 103,
+  "file_name": "frame_0103.jpg",
+  "bbox": [
+   333.51,
+   71.57,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   707.43,
+   490.45
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0072,
+   -0.02837
+  ],
+  "angle_from_boresight_deg": 1.677
+ },
+ {
+  "frame_id": 104,
+  "file_name": "frame_0104.jpg",
+  "bbox": [
+   332.9,
+   71.37,
+   747.84,
+   837.75
+  ],
+  "centroid": [
+   706.82,
+   490.24
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00755,
+   -0.02849
+  ],
+  "angle_from_boresight_deg": 1.688
+ },
+ {
+  "frame_id": 105,
+  "file_name": "frame_0105.jpg",
+  "bbox": [
+   327.13,
+   24.91,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   730.78,
+   470.92
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   0.00618,
+   -0.03955
+  ],
+  "angle_from_boresight_deg": 2.292
+ },
+ {
+  "frame_id": 106,
+  "file_name": "frame_0106.jpg",
+  "bbox": [
+   326.44,
+   24.75,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   730.09,
+   470.76
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00578,
+   -0.03964
+  ],
+  "angle_from_boresight_deg": 2.294
+ },
+ {
+  "frame_id": 107,
+  "file_name": "frame_0107.jpg",
+  "bbox": [
+   325.79,
+   24.53,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   729.44,
+   470.55
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00541,
+   -0.03976
+  ],
+  "angle_from_boresight_deg": 2.298
+ },
+ {
+  "frame_id": 108,
+  "file_name": "frame_0108.jpg",
+  "bbox": [
+   325.03,
+   24.35,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   728.68,
+   470.36
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00497,
+   -0.03987
+  ],
+  "angle_from_boresight_deg": 2.301
+ },
+ {
+  "frame_id": 109,
+  "file_name": "frame_0109.jpg",
+  "bbox": [
+   324.25,
+   24.21,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   727.9,
+   470.23
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00453,
+   -0.03995
+  ],
+  "angle_from_boresight_deg": 2.302
+ },
+ {
+  "frame_id": 110,
+  "file_name": "frame_0110.jpg",
+  "bbox": [
+   323.49,
+   24.06,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   727.14,
+   470.08
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00409,
+   -0.04003
+  ],
+  "angle_from_boresight_deg": 2.304
+ },
+ {
+  "frame_id": 111,
+  "file_name": "frame_0111.jpg",
+  "bbox": [
+   322.54,
+   23.9,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   726.19,
+   469.92
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00355,
+   -0.04012
+  ],
+  "angle_from_boresight_deg": 2.307
+ },
+ {
+  "frame_id": 112,
+  "file_name": "frame_0112.jpg",
+  "bbox": [
+   321.7,
+   23.7,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   725.35,
+   469.71
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00307,
+   -0.04024
+  ],
+  "angle_from_boresight_deg": 2.311
+ },
+ {
+  "frame_id": 113,
+  "file_name": "frame_0113.jpg",
+  "bbox": [
+   320.89,
+   23.53,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   724.54,
+   469.55
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.0026,
+   -0.04034
+  ],
+  "angle_from_boresight_deg": 2.315
+ },
+ {
+  "frame_id": 114,
+  "file_name": "frame_0114.jpg",
+  "bbox": [
+   320.09,
+   23.47,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   723.74,
+   469.48
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00214,
+   -0.04038
+  ],
+  "angle_from_boresight_deg": 2.315
+ },
+ {
+  "frame_id": 115,
+  "file_name": "frame_0115.jpg",
+  "bbox": [
+   318.92,
+   23.24,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   722.57,
+   469.25
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00147,
+   -0.04051
+  ],
+  "angle_from_boresight_deg": 2.321
+ },
+ {
+  "frame_id": 116,
+  "file_name": "frame_0116.jpg",
+  "bbox": [
+   317.94,
+   23.12,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   721.59,
+   469.14
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00091,
+   -0.04057
+  ],
+  "angle_from_boresight_deg": 2.324
+ },
+ {
+  "frame_id": 117,
+  "file_name": "frame_0117.jpg",
+  "bbox": [
+   317.04,
+   22.95,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   720.69,
+   468.96
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.0004,
+   -0.04067
+  ],
+  "angle_from_boresight_deg": 2.329
+ },
+ {
+  "frame_id": 118,
+  "file_name": "frame_0118.jpg",
+  "bbox": [
+   316.17,
+   22.82,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   719.82,
+   468.83
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0001,
+   -0.04075
+  ],
+  "angle_from_boresight_deg": 2.333
+ },
+ {
+  "frame_id": 119,
+  "file_name": "frame_0119.jpg",
+  "bbox": [
+   315.36,
+   22.78,
+   807.3,
+   892.03
+  ],
+  "centroid": [
+   719.01,
+   468.8
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00057,
+   -0.04077
+  ],
+  "angle_from_boresight_deg": 2.335
+ },
+ {
+  "frame_id": 120,
+  "file_name": "frame_0120.jpg",
+  "bbox": [
+   318.72,
+   7.91,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   749.6,
+   453.6
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   0.01696,
+   -0.04947
+  ],
+  "angle_from_boresight_deg": 2.994
+ },
+ {
+  "frame_id": 121,
+  "file_name": "frame_0121.jpg",
+  "bbox": [
+   317.79,
+   7.89,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   748.66,
+   453.59
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01642,
+   -0.04947
+  ],
+  "angle_from_boresight_deg": 2.984
+ },
+ {
+  "frame_id": 122,
+  "file_name": "frame_0122.jpg",
+  "bbox": [
+   316.8,
+   7.96,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   747.68,
+   453.65
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01586,
+   -0.04944
+  ],
+  "angle_from_boresight_deg": 2.972
+ },
+ {
+  "frame_id": 123,
+  "file_name": "frame_0123.jpg",
+  "bbox": [
+   315.83,
+   7.8,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   746.71,
+   453.49
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01531,
+   -0.04953
+  ],
+  "angle_from_boresight_deg": 2.968
+ },
+ {
+  "frame_id": 124,
+  "file_name": "frame_0124.jpg",
+  "bbox": [
+   314.86,
+   7.74,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   745.73,
+   453.44
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01475,
+   -0.04956
+  ],
+  "angle_from_boresight_deg": 2.96
+ },
+ {
+  "frame_id": 125,
+  "file_name": "frame_0125.jpg",
+  "bbox": [
+   313.78,
+   7.78,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   744.65,
+   453.47
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01413,
+   -0.04954
+  ],
+  "angle_from_boresight_deg": 2.949
+ },
+ {
+  "frame_id": 126,
+  "file_name": "frame_0126.jpg",
+  "bbox": [
+   312.8,
+   7.75,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   743.67,
+   453.44
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01357,
+   -0.04956
+  ],
+  "angle_from_boresight_deg": 2.941
+ },
+ {
+  "frame_id": 127,
+  "file_name": "frame_0127.jpg",
+  "bbox": [
+   311.76,
+   7.56,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   742.63,
+   453.26
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01297,
+   -0.04966
+  ],
+  "angle_from_boresight_deg": 2.938
+ },
+ {
+  "frame_id": 128,
+  "file_name": "frame_0128.jpg",
+  "bbox": [
+   310.54,
+   7.45,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   741.41,
+   453.15
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01227,
+   -0.04973
+  ],
+  "angle_from_boresight_deg": 2.932
+ },
+ {
+  "frame_id": 129,
+  "file_name": "frame_0129.jpg",
+  "bbox": [
+   309.51,
+   7.46,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   740.38,
+   453.15
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01168,
+   -0.04973
+  ],
+  "angle_from_boresight_deg": 2.924
+ },
+ {
+  "frame_id": 130,
+  "file_name": "frame_0130.jpg",
+  "bbox": [
+   308.43,
+   7.43,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   739.31,
+   453.13
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01107,
+   -0.04974
+  ],
+  "angle_from_boresight_deg": 2.917
+ },
+ {
+  "frame_id": 131,
+  "file_name": "frame_0131.jpg",
+  "bbox": [
+   307.04,
+   7.43,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   737.92,
+   453.13
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.01027,
+   -0.04974
+  ],
+  "angle_from_boresight_deg": 2.907
+ },
+ {
+  "frame_id": 132,
+  "file_name": "frame_0132.jpg",
+  "bbox": [
+   305.94,
+   7.45,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   736.82,
+   453.15
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00964,
+   -0.04973
+  ],
+  "angle_from_boresight_deg": 2.9
+ },
+ {
+  "frame_id": 133,
+  "file_name": "frame_0133.jpg",
+  "bbox": [
+   304.83,
+   7.43,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   735.7,
+   453.13
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.009,
+   -0.04974
+  ],
+  "angle_from_boresight_deg": 2.894
+ },
+ {
+  "frame_id": 134,
+  "file_name": "frame_0134.jpg",
+  "bbox": [
+   303.76,
+   7.42,
+   861.75,
+   891.39
+  ],
+  "centroid": [
+   734.63,
+   453.12
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00838,
+   -0.04974
+  ],
+  "angle_from_boresight_deg": 2.888
+ },
+ {
+  "frame_id": 135,
+  "file_name": "frame_0135.jpg",
+  "bbox": [
+   309.68,
+   81.44,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   722.19,
+   477.75
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   0.00126,
+   -0.03564
+  ],
+  "angle_from_boresight_deg": 2.042
+ },
+ {
+  "frame_id": 136,
+  "file_name": "frame_0136.jpg",
+  "bbox": [
+   308.47,
+   81.48,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   720.97,
+   477.8
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   0.00056,
+   -0.03561
+  ],
+  "angle_from_boresight_deg": 2.04
+ },
+ {
+  "frame_id": 137,
+  "file_name": "frame_0137.jpg",
+  "bbox": [
+   307.33,
+   81.53,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   719.84,
+   477.85
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -9e-05,
+   -0.03558
+  ],
+  "angle_from_boresight_deg": 2.038
+ },
+ {
+  "frame_id": 138,
+  "file_name": "frame_0138.jpg",
+  "bbox": [
+   306.1,
+   81.55,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   718.61,
+   477.87
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0008,
+   -0.03557
+  ],
+  "angle_from_boresight_deg": 2.038
+ },
+ {
+  "frame_id": 139,
+  "file_name": "frame_0139.jpg",
+  "bbox": [
+   304.93,
+   81.56,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   717.43,
+   477.88
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00147,
+   -0.03557
+  ],
+  "angle_from_boresight_deg": 2.039
+ },
+ {
+  "frame_id": 140,
+  "file_name": "frame_0140.jpg",
+  "bbox": [
+   303.75,
+   81.62,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   716.25,
+   477.93
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00215,
+   -0.03554
+  ],
+  "angle_from_boresight_deg": 2.039
+ },
+ {
+  "frame_id": 141,
+  "file_name": "frame_0141.jpg",
+  "bbox": [
+   302.56,
+   81.67,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   715.07,
+   477.99
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00283,
+   -0.0355
+  ],
+  "angle_from_boresight_deg": 2.04
+ },
+ {
+  "frame_id": 142,
+  "file_name": "frame_0142.jpg",
+  "bbox": [
+   301.36,
+   81.67,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   713.87,
+   477.99
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00351,
+   -0.0355
+  ],
+  "angle_from_boresight_deg": 2.043
+ },
+ {
+  "frame_id": 143,
+  "file_name": "frame_0143.jpg",
+  "bbox": [
+   299.92,
+   81.65,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   712.42,
+   477.96
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00434,
+   -0.03552
+  ],
+  "angle_from_boresight_deg": 2.049
+ },
+ {
+  "frame_id": 144,
+  "file_name": "frame_0144.jpg",
+  "bbox": [
+   298.59,
+   81.59,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   711.1,
+   477.91
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0051,
+   -0.03555
+  ],
+  "angle_from_boresight_deg": 2.057
+ },
+ {
+  "frame_id": 145,
+  "file_name": "frame_0145.jpg",
+  "bbox": [
+   297.2,
+   81.83,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   709.7,
+   478.14
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0059,
+   -0.03542
+  ],
+  "angle_from_boresight_deg": 2.056
+ },
+ {
+  "frame_id": 146,
+  "file_name": "frame_0146.jpg",
+  "bbox": [
+   295.89,
+   81.83,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   708.39,
+   478.14
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00665,
+   -0.03542
+  ],
+  "angle_from_boresight_deg": 2.064
+ },
+ {
+  "frame_id": 147,
+  "file_name": "frame_0147.jpg",
+  "bbox": [
+   294.53,
+   81.85,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   707.04,
+   478.16
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00743,
+   -0.03541
+  ],
+  "angle_from_boresight_deg": 2.072
+ },
+ {
+  "frame_id": 148,
+  "file_name": "frame_0148.jpg",
+  "bbox": [
+   293.18,
+   81.87,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   705.69,
+   478.18
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0082,
+   -0.03539
+  ],
+  "angle_from_boresight_deg": 2.081
+ },
+ {
+  "frame_id": 149,
+  "file_name": "frame_0149.jpg",
+  "bbox": [
+   291.84,
+   81.89,
+   825.01,
+   792.63
+  ],
+  "centroid": [
+   704.35,
+   478.21
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00897,
+   -0.03538
+  ],
+  "angle_from_boresight_deg": 2.09
+ },
+ {
+  "frame_id": 150,
+  "file_name": "frame_0150.jpg",
+  "bbox": [
+   313.32,
+   156.23,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   711.31,
+   509.38
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.00498,
+   -0.01753
+  ],
+  "angle_from_boresight_deg": 1.044
+ },
+ {
+  "frame_id": 151,
+  "file_name": "frame_0151.jpg",
+  "bbox": [
+   311.92,
+   156.3,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   709.91,
+   509.44
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00578,
+   -0.0175
+  ],
+  "angle_from_boresight_deg": 1.056
+ },
+ {
+  "frame_id": 152,
+  "file_name": "frame_0152.jpg",
+  "bbox": [
+   310.51,
+   156.63,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   708.51,
+   509.78
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00658,
+   -0.0173
+  ],
+  "angle_from_boresight_deg": 1.061
+ },
+ {
+  "frame_id": 153,
+  "file_name": "frame_0153.jpg",
+  "bbox": [
+   309.15,
+   156.93,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   707.14,
+   510.07
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00737,
+   -0.01714
+  ],
+  "angle_from_boresight_deg": 1.069
+ },
+ {
+  "frame_id": 154,
+  "file_name": "frame_0154.jpg",
+  "bbox": [
+   307.72,
+   157.19,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   705.71,
+   510.34
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00819,
+   -0.01698
+  ],
+  "angle_from_boresight_deg": 1.08
+ },
+ {
+  "frame_id": 155,
+  "file_name": "frame_0155.jpg",
+  "bbox": [
+   306.27,
+   157.57,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   704.26,
+   510.72
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00902,
+   -0.01676
+  ],
+  "angle_from_boresight_deg": 1.091
+ },
+ {
+  "frame_id": 156,
+  "file_name": "frame_0156.jpg",
+  "bbox": [
+   304.93,
+   158.05,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   702.92,
+   511.19
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00979,
+   -0.0165
+  ],
+  "angle_from_boresight_deg": 1.099
+ },
+ {
+  "frame_id": 157,
+  "file_name": "frame_0157.jpg",
+  "bbox": [
+   303.54,
+   158.3,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   701.53,
+   511.44
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01058,
+   -0.01635
+  ],
+  "angle_from_boresight_deg": 1.116
+ },
+ {
+  "frame_id": 158,
+  "file_name": "frame_0158.jpg",
+  "bbox": [
+   302.18,
+   158.62,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   700.17,
+   511.77
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01136,
+   -0.01616
+  ],
+  "angle_from_boresight_deg": 1.132
+ },
+ {
+  "frame_id": 159,
+  "file_name": "frame_0159.jpg",
+  "bbox": [
+   300.86,
+   159.08,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   698.85,
+   512.22
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01212,
+   -0.01591
+  ],
+  "angle_from_boresight_deg": 1.146
+ },
+ {
+  "frame_id": 160,
+  "file_name": "frame_0160.jpg",
+  "bbox": [
+   299.54,
+   159.47,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   697.53,
+   512.61
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01288,
+   -0.01568
+  ],
+  "angle_from_boresight_deg": 1.162
+ },
+ {
+  "frame_id": 161,
+  "file_name": "frame_0161.jpg",
+  "bbox": [
+   298.21,
+   159.88,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   696.2,
+   513.03
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01364,
+   -0.01544
+  ],
+  "angle_from_boresight_deg": 1.18
+ },
+ {
+  "frame_id": 162,
+  "file_name": "frame_0162.jpg",
+  "bbox": [
+   296.89,
+   160.35,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   694.88,
+   513.5
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0144,
+   -0.01517
+  ],
+  "angle_from_boresight_deg": 1.198
+ },
+ {
+  "frame_id": 163,
+  "file_name": "frame_0163.jpg",
+  "bbox": [
+   295.68,
+   160.96,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   693.67,
+   514.11
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01509,
+   -0.01482
+  ],
+  "angle_from_boresight_deg": 1.212
+ },
+ {
+  "frame_id": 164,
+  "file_name": "frame_0164.jpg",
+  "bbox": [
+   294.61,
+   161.28,
+   795.98,
+   706.3
+  ],
+  "centroid": [
+   692.6,
+   514.43
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0157,
+   -0.01464
+  ],
+  "angle_from_boresight_deg": 1.23
+ },
+ {
+  "frame_id": 165,
+  "file_name": "frame_0165.jpg",
+  "bbox": [
+   278.98,
+   223.96,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   693.13,
+   546.4
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.0154,
+   0.00366
+  ],
+  "angle_from_boresight_deg": 0.907
+ },
+ {
+  "frame_id": 166,
+  "file_name": "frame_0166.jpg",
+  "bbox": [
+   277.45,
+   224.64,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   691.61,
+   547.07
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01627,
+   0.00405
+  ],
+  "angle_from_boresight_deg": 0.961
+ },
+ {
+  "frame_id": 167,
+  "file_name": "frame_0167.jpg",
+  "bbox": [
+   276.25,
+   226.81,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   690.41,
+   549.24
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01696,
+   0.00529
+  ],
+  "angle_from_boresight_deg": 1.018
+ },
+ {
+  "frame_id": 168,
+  "file_name": "frame_0168.jpg",
+  "bbox": [
+   275.07,
+   228.56,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   689.22,
+   550.99
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01764,
+   0.00629
+  ],
+  "angle_from_boresight_deg": 1.073
+ },
+ {
+  "frame_id": 169,
+  "file_name": "frame_0169.jpg",
+  "bbox": [
+   274.07,
+   230.52,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   688.23,
+   552.96
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01821,
+   0.00742
+  ],
+  "angle_from_boresight_deg": 1.126
+ },
+ {
+  "frame_id": 170,
+  "file_name": "frame_0170.jpg",
+  "bbox": [
+   273.1,
+   232.4,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   687.26,
+   554.84
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01876,
+   0.0085
+  ],
+  "angle_from_boresight_deg": 1.18
+ },
+ {
+  "frame_id": 171,
+  "file_name": "frame_0171.jpg",
+  "bbox": [
+   272.15,
+   234.17,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   686.31,
+   556.61
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01931,
+   0.00951
+  ],
+  "angle_from_boresight_deg": 1.233
+ },
+ {
+  "frame_id": 172,
+  "file_name": "frame_0172.jpg",
+  "bbox": [
+   271.11,
+   235.67,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   685.27,
+   558.1
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0199,
+   0.01036
+  ],
+  "angle_from_boresight_deg": 1.285
+ },
+ {
+  "frame_id": 173,
+  "file_name": "frame_0173.jpg",
+  "bbox": [
+   270.09,
+   237.12,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   684.24,
+   559.55
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02049,
+   0.01119
+  ],
+  "angle_from_boresight_deg": 1.338
+ },
+ {
+  "frame_id": 174,
+  "file_name": "frame_0174.jpg",
+  "bbox": [
+   269.22,
+   238.65,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   683.38,
+   561.08
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02099,
+   0.01207
+  ],
+  "angle_from_boresight_deg": 1.387
+ },
+ {
+  "frame_id": 175,
+  "file_name": "frame_0175.jpg",
+  "bbox": [
+   268.3,
+   240.05,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   682.46,
+   562.48
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02151,
+   0.01287
+  ],
+  "angle_from_boresight_deg": 1.436
+ },
+ {
+  "frame_id": 176,
+  "file_name": "frame_0176.jpg",
+  "bbox": [
+   267.04,
+   241.72,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   681.2,
+   564.15
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02224,
+   0.01383
+  ],
+  "angle_from_boresight_deg": 1.5
+ },
+ {
+  "frame_id": 177,
+  "file_name": "frame_0177.jpg",
+  "bbox": [
+   266.3,
+   243.12,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   680.46,
+   565.55
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02266,
+   0.01463
+  ],
+  "angle_from_boresight_deg": 1.545
+ },
+ {
+  "frame_id": 178,
+  "file_name": "frame_0178.jpg",
+  "bbox": [
+   265.66,
+   244.55,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   679.81,
+   566.99
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02303,
+   0.01545
+  ],
+  "angle_from_boresight_deg": 1.589
+ },
+ {
+  "frame_id": 179,
+  "file_name": "frame_0179.jpg",
+  "bbox": [
+   265.13,
+   246.0,
+   828.32,
+   644.87
+  ],
+  "centroid": [
+   679.28,
+   568.44
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02334,
+   0.01628
+  ],
+  "angle_from_boresight_deg": 1.63
+ },
+ {
+  "frame_id": 180,
+  "file_name": "frame_0180.jpg",
+  "bbox": [
+   281.49,
+   200.85,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   689.05,
+   547.25
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.01774,
+   0.00415
+  ],
+  "angle_from_boresight_deg": 1.044
+ },
+ {
+  "frame_id": 181,
+  "file_name": "frame_0181.jpg",
+  "bbox": [
+   280.8,
+   202.0,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   688.35,
+   548.4
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01814,
+   0.00481
+  ],
+  "angle_from_boresight_deg": 1.075
+ },
+ {
+  "frame_id": 182,
+  "file_name": "frame_0182.jpg",
+  "bbox": [
+   280.13,
+   203.12,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   687.69,
+   549.53
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01852,
+   0.00546
+  ],
+  "angle_from_boresight_deg": 1.106
+ },
+ {
+  "frame_id": 183,
+  "file_name": "frame_0183.jpg",
+  "bbox": [
+   279.52,
+   204.08,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   687.08,
+   550.48
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01887,
+   0.006
+  ],
+  "angle_from_boresight_deg": 1.134
+ },
+ {
+  "frame_id": 184,
+  "file_name": "frame_0184.jpg",
+  "bbox": [
+   279.03,
+   204.68,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   686.59,
+   551.08
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01915,
+   0.00634
+  ],
+  "angle_from_boresight_deg": 1.156
+ },
+ {
+  "frame_id": 185,
+  "file_name": "frame_0185.jpg",
+  "bbox": [
+   278.5,
+   205.04,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   686.06,
+   551.44
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01945,
+   0.00655
+  ],
+  "angle_from_boresight_deg": 1.176
+ },
+ {
+  "frame_id": 186,
+  "file_name": "frame_0186.jpg",
+  "bbox": [
+   277.93,
+   205.34,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   685.49,
+   551.74
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01978,
+   0.00672
+  ],
+  "angle_from_boresight_deg": 1.197
+ },
+ {
+  "frame_id": 187,
+  "file_name": "frame_0187.jpg",
+  "bbox": [
+   277.23,
+   205.6,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   684.79,
+   552.01
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02018,
+   0.00688
+  ],
+  "angle_from_boresight_deg": 1.221
+ },
+ {
+  "frame_id": 188,
+  "file_name": "frame_0188.jpg",
+  "bbox": [
+   276.42,
+   205.74,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   683.98,
+   552.15
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02064,
+   0.00696
+  ],
+  "angle_from_boresight_deg": 1.248
+ },
+ {
+  "frame_id": 189,
+  "file_name": "frame_0189.jpg",
+  "bbox": [
+   275.62,
+   205.89,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   683.18,
+   552.3
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0211,
+   0.00704
+  ],
+  "angle_from_boresight_deg": 1.274
+ },
+ {
+  "frame_id": 190,
+  "file_name": "frame_0190.jpg",
+  "bbox": [
+   274.9,
+   206.02,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   682.46,
+   552.43
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02151,
+   0.00712
+  ],
+  "angle_from_boresight_deg": 1.298
+ },
+ {
+  "frame_id": 191,
+  "file_name": "frame_0191.jpg",
+  "bbox": [
+   274.04,
+   206.0,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   681.59,
+   552.4
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02201,
+   0.0071
+  ],
+  "angle_from_boresight_deg": 1.325
+ },
+ {
+  "frame_id": 192,
+  "file_name": "frame_0192.jpg",
+  "bbox": [
+   273.17,
+   205.96,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   680.73,
+   552.37
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02251,
+   0.00708
+  ],
+  "angle_from_boresight_deg": 1.352
+ },
+ {
+  "frame_id": 193,
+  "file_name": "frame_0193.jpg",
+  "bbox": [
+   272.46,
+   205.93,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   680.02,
+   552.34
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02291,
+   0.00707
+  ],
+  "angle_from_boresight_deg": 1.374
+ },
+ {
+  "frame_id": 194,
+  "file_name": "frame_0194.jpg",
+  "bbox": [
+   271.65,
+   205.88,
+   815.12,
+   692.82
+  ],
+  "centroid": [
+   679.2,
+   552.29
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02338,
+   0.00704
+  ],
+  "angle_from_boresight_deg": 1.399
+ },
+ {
+  "frame_id": 195,
+  "file_name": "frame_0195.jpg",
+  "bbox": [
+   278.59,
+   126.13,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   692.93,
+   515.62
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.01551,
+   -0.01396
+  ],
+  "angle_from_boresight_deg": 1.196
+ },
+ {
+  "frame_id": 196,
+  "file_name": "frame_0196.jpg",
+  "bbox": [
+   277.87,
+   125.77,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   692.21,
+   515.27
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01593,
+   -0.01416
+  ],
+  "angle_from_boresight_deg": 1.221
+ },
+ {
+  "frame_id": 197,
+  "file_name": "frame_0197.jpg",
+  "bbox": [
+   277.15,
+   125.38,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   691.49,
+   514.88
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01634,
+   -0.01438
+  ],
+  "angle_from_boresight_deg": 1.247
+ },
+ {
+  "frame_id": 198,
+  "file_name": "frame_0198.jpg",
+  "bbox": [
+   276.49,
+   124.96,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   690.83,
+   514.45
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01672,
+   -0.01463
+  ],
+  "angle_from_boresight_deg": 1.273
+ },
+ {
+  "frame_id": 199,
+  "file_name": "frame_0199.jpg",
+  "bbox": [
+   275.43,
+   124.32,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   689.77,
+   513.81
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01732,
+   -0.01499
+  ],
+  "angle_from_boresight_deg": 1.313
+ },
+ {
+  "frame_id": 200,
+  "file_name": "frame_0200.jpg",
+  "bbox": [
+   274.45,
+   123.36,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   688.79,
+   512.86
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01789,
+   -0.01554
+  ],
+  "angle_from_boresight_deg": 1.357
+ },
+ {
+  "frame_id": 201,
+  "file_name": "frame_0201.jpg",
+  "bbox": [
+   273.36,
+   122.39,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   687.7,
+   511.89
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01851,
+   -0.01609
+  ],
+  "angle_from_boresight_deg": 1.405
+ },
+ {
+  "frame_id": 202,
+  "file_name": "frame_0202.jpg",
+  "bbox": [
+   272.18,
+   121.29,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   686.52,
+   510.79
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01919,
+   -0.01672
+  ],
+  "angle_from_boresight_deg": 1.458
+ },
+ {
+  "frame_id": 203,
+  "file_name": "frame_0203.jpg",
+  "bbox": [
+   271.01,
+   120.13,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   685.35,
+   509.62
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01986,
+   -0.01739
+  ],
+  "angle_from_boresight_deg": 1.512
+ },
+ {
+  "frame_id": 204,
+  "file_name": "frame_0204.jpg",
+  "bbox": [
+   269.51,
+   118.72,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   683.85,
+   508.21
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02072,
+   -0.0182
+  ],
+  "angle_from_boresight_deg": 1.58
+ },
+ {
+  "frame_id": 205,
+  "file_name": "frame_0205.jpg",
+  "bbox": [
+   268.33,
+   117.47,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   682.67,
+   506.97
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02139,
+   -0.01891
+  ],
+  "angle_from_boresight_deg": 1.636
+ },
+ {
+  "frame_id": 206,
+  "file_name": "frame_0206.jpg",
+  "bbox": [
+   267.19,
+   116.28,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   681.53,
+   505.77
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02205,
+   -0.0196
+  ],
+  "angle_from_boresight_deg": 1.69
+ },
+ {
+  "frame_id": 207,
+  "file_name": "frame_0207.jpg",
+  "bbox": [
+   266.09,
+   115.05,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   680.43,
+   504.55
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02268,
+   -0.0203
+  ],
+  "angle_from_boresight_deg": 1.743
+ },
+ {
+  "frame_id": 208,
+  "file_name": "frame_0208.jpg",
+  "bbox": [
+   265.05,
+   113.76,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   679.39,
+   503.26
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02327,
+   -0.02104
+  ],
+  "angle_from_boresight_deg": 1.797
+ },
+ {
+  "frame_id": 209,
+  "file_name": "frame_0209.jpg",
+  "bbox": [
+   264.0,
+   112.45,
+   828.68,
+   778.99
+  ],
+  "centroid": [
+   678.34,
+   501.94
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02387,
+   -0.02179
+  ],
+  "angle_from_boresight_deg": 1.851
+ },
+ {
+  "frame_id": 210,
+  "file_name": "frame_0210.jpg",
+  "bbox": [
+   275.77,
+   56.35,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   698.83,
+   491.77
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.01213,
+   -0.02761
+  ],
+  "angle_from_boresight_deg": 1.728
+ },
+ {
+  "frame_id": 211,
+  "file_name": "frame_0211.jpg",
+  "bbox": [
+   274.62,
+   54.89,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   697.68,
+   490.32
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01279,
+   -0.02844
+  ],
+  "angle_from_boresight_deg": 1.786
+ },
+ {
+  "frame_id": 212,
+  "file_name": "frame_0212.jpg",
+  "bbox": [
+   273.53,
+   53.48,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   696.59,
+   488.91
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01342,
+   -0.02925
+  ],
+  "angle_from_boresight_deg": 1.843
+ },
+ {
+  "frame_id": 213,
+  "file_name": "frame_0213.jpg",
+  "bbox": [
+   271.99,
+   51.46,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   695.04,
+   486.89
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0143,
+   -0.03041
+  ],
+  "angle_from_boresight_deg": 1.925
+ },
+ {
+  "frame_id": 214,
+  "file_name": "frame_0214.jpg",
+  "bbox": [
+   270.71,
+   49.81,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   693.76,
+   485.23
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01504,
+   -0.03136
+  ],
+  "angle_from_boresight_deg": 1.992
+ },
+ {
+  "frame_id": 215,
+  "file_name": "frame_0215.jpg",
+  "bbox": [
+   269.42,
+   48.17,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   692.48,
+   483.6
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01577,
+   -0.03229
+  ],
+  "angle_from_boresight_deg": 2.058
+ },
+ {
+  "frame_id": 216,
+  "file_name": "frame_0216.jpg",
+  "bbox": [
+   268.04,
+   46.43,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   691.09,
+   481.85
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01657,
+   -0.03329
+  ],
+  "angle_from_boresight_deg": 2.13
+ },
+ {
+  "frame_id": 217,
+  "file_name": "frame_0217.jpg",
+  "bbox": [
+   266.64,
+   44.76,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   689.7,
+   480.19
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01736,
+   -0.03424
+  ],
+  "angle_from_boresight_deg": 2.199
+ },
+ {
+  "frame_id": 218,
+  "file_name": "frame_0218.jpg",
+  "bbox": [
+   265.18,
+   43.08,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   688.23,
+   478.51
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01821,
+   -0.03521
+  ],
+  "angle_from_boresight_deg": 2.27
+ },
+ {
+  "frame_id": 219,
+  "file_name": "frame_0219.jpg",
+  "bbox": [
+   263.75,
+   41.31,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   686.8,
+   476.74
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01903,
+   -0.03622
+  ],
+  "angle_from_boresight_deg": 2.343
+ },
+ {
+  "frame_id": 220,
+  "file_name": "frame_0220.jpg",
+  "bbox": [
+   262.19,
+   39.53,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   685.24,
+   474.96
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01992,
+   -0.03724
+  ],
+  "angle_from_boresight_deg": 2.418
+ },
+ {
+  "frame_id": 221,
+  "file_name": "frame_0221.jpg",
+  "bbox": [
+   260.69,
+   37.85,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   683.74,
+   473.28
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02078,
+   -0.0382
+  ],
+  "angle_from_boresight_deg": 2.49
+ },
+ {
+  "frame_id": 222,
+  "file_name": "frame_0222.jpg",
+  "bbox": [
+   259.11,
+   36.18,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   682.16,
+   471.61
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02169,
+   -0.03916
+  ],
+  "angle_from_boresight_deg": 2.563
+ },
+ {
+  "frame_id": 223,
+  "file_name": "frame_0223.jpg",
+  "bbox": [
+   257.53,
+   34.49,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   680.59,
+   469.92
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02259,
+   -0.04012
+  ],
+  "angle_from_boresight_deg": 2.636
+ },
+ {
+  "frame_id": 224,
+  "file_name": "frame_0224.jpg",
+  "bbox": [
+   255.89,
+   32.75,
+   846.11,
+   870.85
+  ],
+  "centroid": [
+   678.94,
+   468.17
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02353,
+   -0.04113
+  ],
+  "angle_from_boresight_deg": 2.713
+ },
+ {
+  "frame_id": 225,
+  "file_name": "frame_0225.jpg",
+  "bbox": [
+   270.57,
+   53.59,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   699.76,
+   506.84
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.0116,
+   -0.01899
+  ],
+  "angle_from_boresight_deg": 1.275
+ },
+ {
+  "frame_id": 226,
+  "file_name": "frame_0226.jpg",
+  "bbox": [
+   268.87,
+   51.94,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   698.06,
+   505.19
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01257,
+   -0.01993
+  ],
+  "angle_from_boresight_deg": 1.35
+ },
+ {
+  "frame_id": 227,
+  "file_name": "frame_0227.jpg",
+  "bbox": [
+   266.65,
+   49.86,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   695.83,
+   503.11
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01385,
+   -0.02112
+  ],
+  "angle_from_boresight_deg": 1.447
+ },
+ {
+  "frame_id": 228,
+  "file_name": "frame_0228.jpg",
+  "bbox": [
+   265.36,
+   48.7,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   694.55,
+   501.95
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01459,
+   -0.02179
+  ],
+  "angle_from_boresight_deg": 1.502
+ },
+ {
+  "frame_id": 229,
+  "file_name": "frame_0229.jpg",
+  "bbox": [
+   263.67,
+   47.09,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   692.85,
+   500.35
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01556,
+   -0.0227
+  ],
+  "angle_from_boresight_deg": 1.576
+ },
+ {
+  "frame_id": 230,
+  "file_name": "frame_0230.jpg",
+  "bbox": [
+   261.96,
+   45.49,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   691.14,
+   498.75
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01654,
+   -0.02362
+  ],
+  "angle_from_boresight_deg": 1.652
+ },
+ {
+  "frame_id": 231,
+  "file_name": "frame_0231.jpg",
+  "bbox": [
+   260.29,
+   44.01,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   689.47,
+   497.27
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0175,
+   -0.02446
+  ],
+  "angle_from_boresight_deg": 1.723
+ },
+ {
+  "frame_id": 232,
+  "file_name": "frame_0232.jpg",
+  "bbox": [
+   258.64,
+   42.47,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   687.82,
+   495.72
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01844,
+   -0.02535
+  ],
+  "angle_from_boresight_deg": 1.796
+ },
+ {
+  "frame_id": 233,
+  "file_name": "frame_0233.jpg",
+  "bbox": [
+   256.93,
+   40.95,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   686.11,
+   494.21
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01942,
+   -0.02622
+  ],
+  "angle_from_boresight_deg": 1.869
+ },
+ {
+  "frame_id": 234,
+  "file_name": "frame_0234.jpg",
+  "bbox": [
+   255.25,
+   39.5,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   684.43,
+   492.76
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02038,
+   -0.02705
+  ],
+  "angle_from_boresight_deg": 1.94
+ },
+ {
+  "frame_id": 235,
+  "file_name": "frame_0235.jpg",
+  "bbox": [
+   253.63,
+   38.12,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   682.82,
+   491.37
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02131,
+   -0.02784
+  ],
+  "angle_from_boresight_deg": 2.008
+ },
+ {
+  "frame_id": 236,
+  "file_name": "frame_0236.jpg",
+  "bbox": [
+   251.93,
+   36.74,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   681.11,
+   489.99
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02229,
+   -0.02863
+  ],
+  "angle_from_boresight_deg": 2.078
+ },
+ {
+  "frame_id": 237,
+  "file_name": "frame_0237.jpg",
+  "bbox": [
+   250.26,
+   35.41,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   679.44,
+   488.67
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02324,
+   -0.02939
+  ],
+  "angle_from_boresight_deg": 2.146
+ },
+ {
+  "frame_id": 238,
+  "file_name": "frame_0238.jpg",
+  "bbox": [
+   248.61,
+   34.06,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   677.79,
+   487.31
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02419,
+   -0.03017
+  ],
+  "angle_from_boresight_deg": 2.214
+ },
+ {
+  "frame_id": 239,
+  "file_name": "frame_0239.jpg",
+  "bbox": [
+   246.81,
+   32.82,
+   858.37,
+   906.51
+  ],
+  "centroid": [
+   675.99,
+   486.08
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02522,
+   -0.03087
+  ],
+  "angle_from_boresight_deg": 2.283
+ },
+ {
+  "frame_id": 240,
+  "file_name": "frame_0240.jpg",
+  "bbox": [
+   275.28,
+   133.98,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   702.56,
+   555.41
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.00999,
+   0.00882
+  ],
+  "angle_from_boresight_deg": 0.764
+ },
+ {
+  "frame_id": 241,
+  "file_name": "frame_0241.jpg",
+  "bbox": [
+   273.58,
+   132.81,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   700.85,
+   554.24
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01097,
+   0.00815
+  ],
+  "angle_from_boresight_deg": 0.783
+ },
+ {
+  "frame_id": 242,
+  "file_name": "frame_0242.jpg",
+  "bbox": [
+   271.82,
+   131.74,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   699.1,
+   553.17
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01198,
+   0.00754
+  ],
+  "angle_from_boresight_deg": 0.811
+ },
+ {
+  "frame_id": 243,
+  "file_name": "frame_0243.jpg",
+  "bbox": [
+   269.48,
+   130.47,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   696.76,
+   551.91
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01332,
+   0.00682
+  ],
+  "angle_from_boresight_deg": 0.857
+ },
+ {
+  "frame_id": 244,
+  "file_name": "frame_0244.jpg",
+  "bbox": [
+   267.69,
+   129.65,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   694.97,
+   551.08
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01434,
+   0.00634
+  ],
+  "angle_from_boresight_deg": 0.899
+ },
+ {
+  "frame_id": 245,
+  "file_name": "frame_0245.jpg",
+  "bbox": [
+   265.89,
+   128.8,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   693.17,
+   550.23
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01538,
+   0.00586
+  ],
+  "angle_from_boresight_deg": 0.943
+ },
+ {
+  "frame_id": 246,
+  "file_name": "frame_0246.jpg",
+  "bbox": [
+   264.17,
+   128.04,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   691.45,
+   549.47
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01636,
+   0.00542
+  ],
+  "angle_from_boresight_deg": 0.987
+ },
+ {
+  "frame_id": 247,
+  "file_name": "frame_0247.jpg",
+  "bbox": [
+   262.49,
+   127.42,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   689.77,
+   548.85
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01732,
+   0.00507
+  ],
+  "angle_from_boresight_deg": 1.034
+ },
+ {
+  "frame_id": 248,
+  "file_name": "frame_0248.jpg",
+  "bbox": [
+   260.82,
+   126.75,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   688.1,
+   548.18
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01828,
+   0.00468
+  ],
+  "angle_from_boresight_deg": 1.081
+ },
+ {
+  "frame_id": 249,
+  "file_name": "frame_0249.jpg",
+  "bbox": [
+   259.09,
+   126.25,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   686.37,
+   547.68
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01927,
+   0.0044
+  ],
+  "angle_from_boresight_deg": 1.132
+ },
+ {
+  "frame_id": 250,
+  "file_name": "frame_0250.jpg",
+  "bbox": [
+   257.38,
+   125.78,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   684.66,
+   547.21
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02025,
+   0.00413
+  ],
+  "angle_from_boresight_deg": 1.184
+ },
+ {
+  "frame_id": 251,
+  "file_name": "frame_0251.jpg",
+  "bbox": [
+   255.53,
+   125.44,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   682.81,
+   546.87
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02131,
+   0.00393
+  ],
+  "angle_from_boresight_deg": 1.242
+ },
+ {
+  "frame_id": 252,
+  "file_name": "frame_0252.jpg",
+  "bbox": [
+   254.19,
+   125.23,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   681.47,
+   546.66
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02208,
+   0.00381
+  ],
+  "angle_from_boresight_deg": 1.284
+ },
+ {
+  "frame_id": 253,
+  "file_name": "frame_0253.jpg",
+  "bbox": [
+   252.74,
+   125.1,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   680.01,
+   546.53
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02292,
+   0.00374
+  ],
+  "angle_from_boresight_deg": 1.33
+ },
+ {
+  "frame_id": 254,
+  "file_name": "frame_0254.jpg",
+  "bbox": [
+   251.68,
+   124.98,
+   854.56,
+   842.86
+  ],
+  "centroid": [
+   678.96,
+   546.41
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.02352,
+   0.00367
+  ],
+  "angle_from_boresight_deg": 1.364
+ },
+ {
+  "frame_id": 255,
+  "file_name": "frame_0255.jpg",
+  "bbox": [
+   313.92,
+   253.85,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   717.47,
+   616.48
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.00145,
+   0.04379
+  ],
+  "angle_from_boresight_deg": 2.509
+ },
+ {
+  "frame_id": 256,
+  "file_name": "frame_0256.jpg",
+  "bbox": [
+   313.08,
+   254.01,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   716.63,
+   616.64
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00193,
+   0.04388
+  ],
+  "angle_from_boresight_deg": 2.515
+ },
+ {
+  "frame_id": 257,
+  "file_name": "frame_0257.jpg",
+  "bbox": [
+   312.33,
+   254.03,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   715.88,
+   616.66
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00236,
+   0.04389
+  ],
+  "angle_from_boresight_deg": 2.517
+ },
+ {
+  "frame_id": 258,
+  "file_name": "frame_0258.jpg",
+  "bbox": [
+   311.56,
+   254.23,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   715.12,
+   616.86
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0028,
+   0.04401
+  ],
+  "angle_from_boresight_deg": 2.525
+ },
+ {
+  "frame_id": 259,
+  "file_name": "frame_0259.jpg",
+  "bbox": [
+   310.83,
+   254.35,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   714.38,
+   616.98
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00322,
+   0.04407
+  ],
+  "angle_from_boresight_deg": 2.53
+ },
+ {
+  "frame_id": 260,
+  "file_name": "frame_0260.jpg",
+  "bbox": [
+   310.09,
+   254.51,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   713.64,
+   617.14
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00364,
+   0.04417
+  ],
+  "angle_from_boresight_deg": 2.537
+ },
+ {
+  "frame_id": 261,
+  "file_name": "frame_0261.jpg",
+  "bbox": [
+   309.18,
+   254.93,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   712.73,
+   617.56
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00417,
+   0.04441
+  ],
+  "angle_from_boresight_deg": 2.554
+ },
+ {
+  "frame_id": 262,
+  "file_name": "frame_0262.jpg",
+  "bbox": [
+   308.61,
+   255.21,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   712.16,
+   617.84
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00449,
+   0.04457
+  ],
+  "angle_from_boresight_deg": 2.565
+ },
+ {
+  "frame_id": 263,
+  "file_name": "frame_0263.jpg",
+  "bbox": [
+   308.09,
+   255.52,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   711.64,
+   618.15
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00479,
+   0.04474
+  ],
+  "angle_from_boresight_deg": 2.577
+ },
+ {
+  "frame_id": 264,
+  "file_name": "frame_0264.jpg",
+  "bbox": [
+   307.56,
+   255.88,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   711.11,
+   618.51
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00509,
+   0.04495
+  ],
+  "angle_from_boresight_deg": 2.59
+ },
+ {
+  "frame_id": 265,
+  "file_name": "frame_0265.jpg",
+  "bbox": [
+   307.08,
+   256.21,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   710.63,
+   618.84
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00537,
+   0.04514
+  ],
+  "angle_from_boresight_deg": 2.603
+ },
+ {
+  "frame_id": 266,
+  "file_name": "frame_0266.jpg",
+  "bbox": [
+   306.65,
+   256.83,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   710.2,
+   619.46
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00562,
+   0.04549
+  ],
+  "angle_from_boresight_deg": 2.625
+ },
+ {
+  "frame_id": 267,
+  "file_name": "frame_0267.jpg",
+  "bbox": [
+   306.14,
+   257.38,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   709.69,
+   620.01
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00591,
+   0.04581
+  ],
+  "angle_from_boresight_deg": 2.645
+ },
+ {
+  "frame_id": 268,
+  "file_name": "frame_0268.jpg",
+  "bbox": [
+   305.82,
+   258.03,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   709.37,
+   620.66
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00609,
+   0.04618
+  ],
+  "angle_from_boresight_deg": 2.667
+ },
+ {
+  "frame_id": 269,
+  "file_name": "frame_0269.jpg",
+  "bbox": [
+   305.55,
+   258.41,
+   807.1,
+   725.26
+  ],
+  "centroid": [
+   709.1,
+   621.05
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.00625,
+   0.0464
+  ],
+  "angle_from_boresight_deg": 2.681
+ },
+ {
+  "frame_id": 270,
+  "file_name": "frame_0270.jpg",
+  "bbox": [
+   254.64,
+   90.57,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   695.61,
+   546.55
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.01398,
+   0.00375
+  ],
+  "angle_from_boresight_deg": 0.829
+ },
+ {
+  "frame_id": 271,
+  "file_name": "frame_0271.jpg",
+  "bbox": [
+   254.38,
+   90.87,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   695.34,
+   546.86
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01413,
+   0.00393
+  ],
+  "angle_from_boresight_deg": 0.84
+ },
+ {
+  "frame_id": 272,
+  "file_name": "frame_0272.jpg",
+  "bbox": [
+   254.12,
+   91.23,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   695.08,
+   547.21
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01428,
+   0.00413
+  ],
+  "angle_from_boresight_deg": 0.852
+ },
+ {
+  "frame_id": 273,
+  "file_name": "frame_0273.jpg",
+  "bbox": [
+   253.79,
+   91.53,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   694.76,
+   547.51
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01446,
+   0.0043
+  ],
+  "angle_from_boresight_deg": 0.865
+ },
+ {
+  "frame_id": 274,
+  "file_name": "frame_0274.jpg",
+  "bbox": [
+   253.48,
+   91.81,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   694.45,
+   547.8
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01464,
+   0.00447
+  ],
+  "angle_from_boresight_deg": 0.877
+ },
+ {
+  "frame_id": 275,
+  "file_name": "frame_0275.jpg",
+  "bbox": [
+   253.2,
+   92.13,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   694.17,
+   548.12
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0148,
+   0.00465
+  ],
+  "angle_from_boresight_deg": 0.889
+ },
+ {
+  "frame_id": 276,
+  "file_name": "frame_0276.jpg",
+  "bbox": [
+   252.77,
+   92.45,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   693.74,
+   548.43
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01505,
+   0.00483
+  ],
+  "angle_from_boresight_deg": 0.905
+ },
+ {
+  "frame_id": 277,
+  "file_name": "frame_0277.jpg",
+  "bbox": [
+   252.4,
+   92.75,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   693.37,
+   548.73
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01526,
+   0.005
+  ],
+  "angle_from_boresight_deg": 0.92
+ },
+ {
+  "frame_id": 278,
+  "file_name": "frame_0278.jpg",
+  "bbox": [
+   251.99,
+   92.96,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   692.96,
+   548.94
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0155,
+   0.00512
+  ],
+  "angle_from_boresight_deg": 0.935
+ },
+ {
+  "frame_id": 279,
+  "file_name": "frame_0279.jpg",
+  "bbox": [
+   251.61,
+   93.17,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   692.58,
+   549.16
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01571,
+   0.00524
+  ],
+  "angle_from_boresight_deg": 0.949
+ },
+ {
+  "frame_id": 280,
+  "file_name": "frame_0280.jpg",
+  "bbox": [
+   251.15,
+   93.43,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   692.12,
+   549.41
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01598,
+   0.00539
+  ],
+  "angle_from_boresight_deg": 0.966
+ },
+ {
+  "frame_id": 281,
+  "file_name": "frame_0281.jpg",
+  "bbox": [
+   250.79,
+   93.64,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   691.76,
+   549.63
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01618,
+   0.00551
+  ],
+  "angle_from_boresight_deg": 0.98
+ },
+ {
+  "frame_id": 282,
+  "file_name": "frame_0282.jpg",
+  "bbox": [
+   250.5,
+   93.88,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   691.47,
+   549.87
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01635,
+   0.00565
+  ],
+  "angle_from_boresight_deg": 0.991
+ },
+ {
+  "frame_id": 283,
+  "file_name": "frame_0283.jpg",
+  "bbox": [
+   250.15,
+   94.11,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   691.11,
+   550.1
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01656,
+   0.00578
+  ],
+  "angle_from_boresight_deg": 1.005
+ },
+ {
+  "frame_id": 284,
+  "file_name": "frame_0284.jpg",
+  "bbox": [
+   249.84,
+   94.27,
+   881.93,
+   911.97
+  ],
+  "centroid": [
+   690.81,
+   550.26
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.01673,
+   0.00587
+  ],
+  "angle_from_boresight_deg": 1.016
+ },
+ {
+  "frame_id": 285,
+  "file_name": "frame_0285.jpg",
+  "bbox": [
+   218.91,
+   65.78,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   653.02,
+   529.06
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.03839,
+   -0.00626
+  ],
+  "angle_from_boresight_deg": 2.227
+ },
+ {
+  "frame_id": 286,
+  "file_name": "frame_0286.jpg",
+  "bbox": [
+   218.52,
+   66.03,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   652.63,
+   529.32
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.03861,
+   -0.00611
+  ],
+  "angle_from_boresight_deg": 2.239
+ },
+ {
+  "frame_id": 287,
+  "file_name": "frame_0287.jpg",
+  "bbox": [
+   218.18,
+   66.19,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   652.29,
+   529.47
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0388,
+   -0.00603
+  ],
+  "angle_from_boresight_deg": 2.249
+ },
+ {
+  "frame_id": 288,
+  "file_name": "frame_0288.jpg",
+  "bbox": [
+   217.75,
+   66.43,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   651.86,
+   529.71
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.03905,
+   -0.00589
+  ],
+  "angle_from_boresight_deg": 2.262
+ },
+ {
+  "frame_id": 289,
+  "file_name": "frame_0289.jpg",
+  "bbox": [
+   217.52,
+   66.63,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   651.63,
+   529.91
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.03918,
+   -0.00578
+  ],
+  "angle_from_boresight_deg": 2.268
+ },
+ {
+  "frame_id": 290,
+  "file_name": "frame_0290.jpg",
+  "bbox": [
+   217.15,
+   66.87,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   651.26,
+   530.15
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.03939,
+   -0.00564
+  ],
+  "angle_from_boresight_deg": 2.279
+ },
+ {
+  "frame_id": 291,
+  "file_name": "frame_0291.jpg",
+  "bbox": [
+   216.82,
+   67.08,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   650.93,
+   530.36
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.03958,
+   -0.00552
+  ],
+  "angle_from_boresight_deg": 2.289
+ },
+ {
+  "frame_id": 292,
+  "file_name": "frame_0292.jpg",
+  "bbox": [
+   216.65,
+   67.22,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   650.76,
+   530.51
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.03968,
+   -0.00543
+  ],
+  "angle_from_boresight_deg": 2.294
+ },
+ {
+  "frame_id": 293,
+  "file_name": "frame_0293.jpg",
+  "bbox": [
+   216.31,
+   67.48,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   650.42,
+   530.76
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.03988,
+   -0.00529
+  ],
+  "angle_from_boresight_deg": 2.303
+ },
+ {
+  "frame_id": 294,
+  "file_name": "frame_0294.jpg",
+  "bbox": [
+   216.04,
+   67.65,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   650.16,
+   530.94
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.04002,
+   -0.00519
+  ],
+  "angle_from_boresight_deg": 2.311
+ },
+ {
+  "frame_id": 295,
+  "file_name": "frame_0295.jpg",
+  "bbox": [
+   215.72,
+   67.82,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   649.83,
+   531.1
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.04021,
+   -0.0051
+  ],
+  "angle_from_boresight_deg": 2.321
+ },
+ {
+  "frame_id": 296,
+  "file_name": "frame_0296.jpg",
+  "bbox": [
+   215.42,
+   67.99,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   649.53,
+   531.28
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.04039,
+   -0.00499
+  ],
+  "angle_from_boresight_deg": 2.33
+ },
+ {
+  "frame_id": 297,
+  "file_name": "frame_0297.jpg",
+  "bbox": [
+   215.15,
+   68.13,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   649.26,
+   531.41
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.04054,
+   -0.00492
+  ],
+  "angle_from_boresight_deg": 2.339
+ },
+ {
+  "frame_id": 298,
+  "file_name": "frame_0298.jpg",
+  "bbox": [
+   214.87,
+   68.33,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   648.98,
+   531.61
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0407,
+   -0.0048
+  ],
+  "angle_from_boresight_deg": 2.347
+ },
+ {
+  "frame_id": 299,
+  "file_name": "frame_0299.jpg",
+  "bbox": [
+   214.53,
+   68.36,
+   868.22,
+   926.56
+  ],
+  "centroid": [
+   648.64,
+   531.64
+  ],
+  "n_features": 80,
+  "source": "flow",
+  "los_xy": [
+   -0.0409,
+   -0.00479
+  ],
+  "angle_from_boresight_deg": 2.358
+ },
+ {
+  "frame_id": 300,
+  "file_name": "frame_0300.jpg",
+  "bbox": [
+   330.1,
+   192.04,
+   703.34,
+   782.19
+  ],
+  "centroid": [
+   681.77,
+   583.13
+  ],
+  "n_features": 80,
+  "source": "flow+detect",
+  "los_xy": [
+   -0.02191,
+   0.02469
+  ],
+  "angle_from_boresight_deg": 1.891
+ }
+]
